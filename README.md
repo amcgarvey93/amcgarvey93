@@ -14,7 +14,7 @@ easier and more user friendly
 - Learn SQL
 - Dable in some Python for web scraping
 
-Completed projects are below and over on [RPubs](https://rpubs.com/McGarveyA)!
+For additional projects and interactive graphics, head over to [RPubs](https://rpubs.com/McGarveyA)!
 
 Connect with me on LinkedIn!
 [<img align="center" alt="aaronmcgarvey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
