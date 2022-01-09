@@ -10,9 +10,9 @@ easier and more user friendly
 
 ### 🏆 Goals for 2022
 - Become proficient in R and learn machine learning models
-- Complete Google Data Analyst Certification
 - Learn SQL
-- Dable in some Python for web scraping
+- Dable in some Python
+- Learn data visualization software
 
 For additional projects and interactive graphics, head over to my profile on [RPubs](https://rpubs.com/McGarveyA)!
 
