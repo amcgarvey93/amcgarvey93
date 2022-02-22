@@ -6,7 +6,7 @@ projects to build my experience.
 ### I'm working towards becoming a data analyst!
 - I developed the R package [easypower](https://cran.r-project.org/web/packages/easypower/index.html) back in 2015 to help make performing a power analysis and reading the output
 easier and more user friendly
-- I'm currently working on automating data collection from the Hubspot API using Python
+- I'm currently working on automating data collection from the Hubspot API using Python. (Program overview coming soon!)
 
 ### 🏆 Goals for 2022
 - Become proficient in R and learn machine learning models
