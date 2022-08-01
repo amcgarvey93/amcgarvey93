@@ -1,17 +1,12 @@
 ## 👋 Hi, I’m Aaron, welcome to my portfolio!
 
-I'm an Online Fitness Coach and Business Development Rep at [The Sales Factory](https://www.thesalesfactory.co/). Currently improving my R programming skills and completing
-projects to build my experience.
+Back in university I developed the R package [easypower](https://cran.r-project.org/web/packages/easypower/index.html) to help make performing a power analysis and reading the output easier and more user friendly. I'm currently working at [The Sales Factory](https://www.thesalesfactory.co/) and responsible for all data operations. The main focus of my work is to develop integrations with our systems, automate reporting tasks, and create more efficient workflows. 
 
-### I'm working towards becoming a data analyst!
-- I developed the R package [easypower](https://cran.r-project.org/web/packages/easypower/index.html) back in 2015 to help make performing a power analysis and reading the output
-easier and more user friendly
-- I'm currently working on automating data collection from the Hubspot API using Python. (Program overview coming soon! The data and information is private so I will be putting together a modified version)
+### What are some things I actively work on?
+- 
 
-### 🏆 Goals for 2022
-- Become proficient in R and learn machine learning models
-- Learn SQL and Python
-- Choose a BI software to learn
+### What languages am I using right now?
+- 
 
 For additional projects and interactive graphics, head over to my profile on [RPubs](https://rpubs.com/McGarveyA)!
 
