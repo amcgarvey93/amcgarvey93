@@ -5,7 +5,7 @@ Back in university I developed the R package [easypower](https://cran.r-project.
 ### What are some things I actively work on?
 - Developing easy to use apps in R Shiny for quick product development and testing. Some of these apps utilize persistent data storage to edit fields in  our database and sync with other systems
 - Using CRM APIs to develop integrations so we can have more oversight on our work. I've developed 'call log' integrations for HubSpot, Outreach, and Salesforce is currently in the works
-- 
+- Automating nearly any reporting task to save employees time
 
 ### What languages am I using right now?
 - Python
