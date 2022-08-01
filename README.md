@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Aaron, welcome to my portfolio!
 
-Back in university I developed the R package [easypower](https://cran.r-project.org/web/packages/easypower/index.html) to help make performing a power analysis and reading the output easier and more user friendly. I'm currently working at [The Sales Factory](https://www.thesalesfactory.co/) and responsible for all data operations. The main focus of my work is to develop integrations with our systems, automate reporting tasks, and create more efficient workflows. 
+I'm currently working at [The Sales Factory](https://www.thesalesfactory.co/) and responsible for all data operations. The main focus of my work is to develop integrations with our systems, automate reporting tasks, and create more efficient workflows. Back in university I developed the R package [easypower](https://cran.r-project.org/web/packages/easypower/index.html) to help make performing a power analysis and reading the output easier and more user friendly.
 
 ### What are some things I actively work on?
 - Developing easy to use apps in R Shiny for quick product development and testing. Some of these apps utilize persistent data storage to edit fields in  our database and sync with other systems
