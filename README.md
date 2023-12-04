@@ -2,9 +2,11 @@
 
 I'm currently working at [The Sales Factory](https://www.thesalesfactory.com/) and responsible for all data operations. The main focus of my work is to develop integrations with our systems, automate reporting tasks, and create more efficient workflows. Back in university I developed the R package [easypower](https://cran.r-project.org/web/packages/easypower/index.html) to help make performing a power analysis and reading the output easier and more user friendly.
 
+**-This GitHub isn't updated much due to being focused on internal application/system development**
+
 ### What are some things I actively work on?
 - Developing easy to use apps in R Shiny for quick product development and testing. Some of these apps utilize persistent data storage to edit fields in  our database and sync with other systems
-- Using CRM APIs to develop integrations so we can have more oversight on our work. I've developed 'call log' integrations for HubSpot, Outreach, and Salesforce is currently in the works
+- Using CRM APIs to develop integrations so we can have more oversight on our work. I've developed 'call log' integrations for HubSpot and Outreach
 - Automating nearly any reporting task to save time for employees
 
 ### What languages am I using right now?
