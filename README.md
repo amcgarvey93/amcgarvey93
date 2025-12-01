@@ -40,7 +40,7 @@ graph LR
 **Automation:** Automated reporting workflows to save 10+ managers over 5 hours per week each.  
 
 ### 2. SaaS Product Development - [Pitchpilot](https://www.pitchpilot.com/)
-*Role: Co-Founder & Head of Engineering*
+*Role: Co-Founder, Head of Product & Development*
 
 Co-developed an AI-driven GTM messaging platform from zero-to-one.
 * **Full Stack:** Built the backend with **Flask (Python)** and frontend with **Vue.js**.
